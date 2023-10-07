@@ -1,0 +1,228 @@
+@font-face {
+    font-family: Gilroy-Light;
+    src: url("./Gilroy-Light.otf");
+}
+
+@font-face {
+    font-family: Gilroy-ExtraBold;
+    src: url("./Gilroy-ExtraBold.otf");
+}
+
+
+
+/* .header .nav .nav-item .nav-link.active {
+    color: red;
+}
+
+.row {
+
+    font-family: Gilroy-ExtraBold;
+
+}
+
+.kamellogo {
+    width: 30%;
+} */
+
+
+.circle {
+    position: absolute;
+    right: 0;
+    width: 45%;
+}
+
+.card {
+    background-color: transparent;
+    border: none;
+    margin-top: 15%;
+    width: 95%;
+    right: 20%;
+}
+
+
+
+.sectationOne {
+    margin-top: 20%;
+}
+
+.logo {
+    display: flex;
+    margin-top: 40px;
+    width: fit-content;
+}
+
+/* --------------------------------------------------------sectationTwo--------------------------------------------------------- */
+.left {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.card1 {
+    margin: 20px;
+    height: 230px;
+    width: 200px;
+    border: black;
+    border-radius: 10px;
+    color: black;
+    background-color: white;
+}
+
+.icon {
+    height: 60px;
+    margin-bottom: 5px;
+    padding: 10px;
+}
+
+.card2 {
+    margin: 20px;
+    height: 230px;
+    width: 200px;
+    border: black;
+    border-radius: 10px;
+    color: white;
+    background-color: #1338BE;
+}
+
+.section2 {
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+
+}
+
+.left-section2 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.right-section2 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: right;
+    width: 45%;
+}
+/* -------------------------------------------------------SectionThree----------------------------------------------------------- */
+.section3 {
+    margin-top: 5%;
+    display: flex;
+    align-items: center;
+
+}
+.left-section3 {
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.peragraph{
+    margin-top: 5%;
+    margin-left: 8px;
+    font-family: Gilroy-Light;
+}
+.Topmargin{
+    margin-top: 10%;
+    margin-left: 120px;
+}
+.peragraph2{
+    margin-top: 10%;
+    margin-left: 120px;
+}
+.right-section3 {
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: space-between;
+    text-align: right;
+    width: 50%;
+}
+.peparimage{
+    height: 770px;
+    width: 650px;
+}
+/* -------------------------------------------------------SectionFour----------------------------------------------------------- */
+.section4{
+    margin-top: 10%;
+    display: flex;
+    align-items: center;
+
+}
+.left-section4 {
+    width: 50%;
+   
+}
+.peragraph{
+    margin-top: 5%;
+    margin-left: 8px;
+    font-family: Gilroy-Light;
+}
+
+.peragraph2{
+    margin-top: 10%;
+    margin-left: 120px;
+}
+.right-section4 {
+
+    width: 50%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 100px;
+    flex-wrap: wrap;
+
+}
+.peparimage2{
+   
+    height: 600px;
+    width: 600px;
+}
+.checkbox{
+    height: 32px;
+    width: 32px;
+    margin-right: 620px;
+    margin-top: 10%;
+}
+.peragraph3{
+    margin-top: 5%;
+    margin-right: 40px;
+    font-family: Gilroy-Light;
+
+}
+.image{
+    height: 32px;
+    width: 32px;
+}
+.main-container {
+    display: flex;
+    align-items: center;
+}
+
+.test {
+    margin-top: 30px;
+    flex-shrink: 0;
+    margin-right: 80px;
+}
+
+.image {
+    height: 100%;
+}
+
+.heading, .para {
+    margin: 0;
+}
+.heading1{
+    margin-top: 30px;
+}
+.peragraph3{
+    margin-left: 5px;
+    margin-top: 10px;
+}

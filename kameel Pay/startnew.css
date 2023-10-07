@@ -1,0 +1,2538 @@
+@font-face {
+    font-family: Gilroy-Light;
+    src: url("./Gilroy-Light.otf");
+}
+
+@font-face {
+    font-family: Gilroy-ExtraBold;
+    src: url("./Gilroy-ExtraBold.otf");
+}
+
+@font-face {
+    font-family: Gilroy-SemiBold;
+    src: url("./Gilroy-SemiBold.ttf");
+}
+@font-face {
+    font-family: Gilroy-Medium;
+    src: url("./Gilroy-Medium.ttf");
+}
+/* ----------------------------------------hearder---------------------------------------------------- */
+.buttonstyle1{
+    height: 45px;
+    width: 140px;
+    border-radius: 30px;
+    font-family: Gilroy-SemiBold;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.Mfont{
+    font-family: Gilroy-Medium;
+    color: black;
+}
+.bfont{
+    font-family: Gilroy-SemiBold;
+    color: black;
+}
+/* --------------------------------------section1------------------------------------------------------ */
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+}
+.kamel_image{
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.image{
+
+    
+    width: 245px;
+}
+.btnone{
+  height: 60px;
+  width: 220px;
+  border-radius: 30px;
+  font-family: Gilroy-SemiBold;
+  background-color: #0059F7;
+  border-color: #0059F7;
+  color: white;
+}
+.btn{
+    margin-top:40px;
+    height: 60px;
+    width: 170px;
+    border-radius: 30px;
+    font-family: Gilroy-SemiBold;
+    background-color: #0059F7;
+    border-color: #0059F7;
+    color: white;
+}
+.btn1{
+    height: 60px;
+    width: 160px;
+    border-radius: 30px;
+    font-family: Gilroy-SemiBold;
+    background-color: #0059F7;
+    color: white;
+}
+.buttonicon{
+    padding-left: 10px;
+    height: 8px;
+    width: 20px;
+}
+.img_logo {
+  margin-top: 30px;
+  width: 170px;
+  height: 50px;
+}
+.img_logo2{
+    margin-top: 30px;
+    width: 180px;
+    height: 50px;
+    padding-left: 20px;
+}
+.circle {
+    overflow: hidden;
+    margin-top: 10px;
+    position: absolute;
+    right: -100px;
+    height: 550px;
+    width: 540px;
+}
+.card {
+    background-color: transparent;
+    border: none;
+    margin-top: 8%;
+    height: 480px;
+    width: 100%;
+    margin-left: 20px;
+}
+.peragraphone{
+  margin-top: 150px;
+  font-family: Gilroy-SemiBold;
+}
+
+.peragraph{
+    margin-top: 150px;
+    font-family: Gilroy-SemiBold;
+}
+/* --------------------------------section2--------------------------------------------------- */
+.divTopMargin{
+    margin-top: 150px;
+}
+.sidecard{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 90px; 
+}
+.sidecardbox{
+    width: 200px;
+    border-radius: 20px;
+    color: black;
+    padding: 0px 10px 20px 15px;
+    min-width: 220px;
+    font-family: Gilroy-Medium;
+   
+}
+.icon {
+    margin-top: 25px;
+    height: 55px;
+    padding: 10px;
+}
+.sidecardbox:nth-child(2){
+    background-color: #0059F7;
+    color: #F5F5F5;
+}
+.sidecardbox:nth-child(2) h5, 
+.sidecardbox:nth-child(2) p {
+    color: #F5F5F5;
+}
+.rightside_heading{
+  text-align: right;
+  margin-bottom: 50px;
+}
+.peragraph2{
+    margin-top: 100px;
+    font-family: Gilroy-SemiBold;
+    text-align: right;
+}
+/* ---------------------------------------section3-------------------------------------------------- */
+.right-aligned-text {
+    text-align: right;
+    white-space: pre-line;
+}
+.checkBoxPera{
+    padding-left: 40px;
+}
+.Checkboximage{
+    width: 25px; 
+    height: 25px;
+}
+.peragraph3{
+    font-family: Gilroy-SemiBold;
+    text-align: left;
+}
+.peparimage{
+    height: 560px;
+    width: 520px;
+}
+.peparimage2{
+    height: 480px;
+    width: 600px;
+}
+/* ----------------------------------------------------section4---------------------------------------- */
+.testimonial-section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.testimonial-cards {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.testimonial-card {
+    flex: 1;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+}
+
+.testimonial-card img.circle-image {
+    width: 120px;
+    height: 120px;
+    margin-bottom: 10px;
+}
+
+.testimonial-card .quote-image {
+    margin-top: 50px;
+    max-width: 30px;
+    margin-right: 10px;
+}
+
+.testimonial-card .stars {
+    color: gold;
+    font-size: 25px;
+}
+
+.testimonial-card p {
+    margin-bottom: 10px;
+}
+
+.testimonial-card .name {
+    text-align: left;
+}
+/* ---------------------------------------section5--------------------------------------------------------------- */
+.pepar3{
+    height: 560px;
+    width: 520px;
+}
+
+/* -------------------------------------------section6----------------------------------------------------------- */
+.card_style{
+    width: 380px;
+
+}
+.news{
+    padding-top: 20px;
+}
+/* ---------------------------------------section7--------------------------------------------------------------- */
+.btn2{
+    height: 60px;
+    width: 180px;
+    border-radius: 30px;
+    font-family: Gilroy-SemiBold;
+    background-color: white;
+    color: white;
+}
+.callimage{
+    padding-left: 80px;
+    height: 80px;
+    width: 400px;
+    object-fit: contain;
+}
+.mobileBig{
+  height: 370px;
+  width: 500px;
+  
+}
+
+/* ---------------------------------------section8--------------------------------------------------------------- */
+.newslatter{
+    margin-top: 350px;
+    height: 450px;
+    background-color: #142044;
+    color: white;
+    
+}
+.seliderimage{
+    height: 65px;
+    width: 470px;
+}
+.hand-imagestyle{
+    top: -279px;
+    padding-left: 62px;
+    
+}
+.handeimage{
+  height: 700px;
+  width: 600px;
+}
+/* ---------------------------------------section9--------------------------------------------------------------- */
+.formstyle{
+    margin-top: 20px;
+    height: 250px;
+    background-color: #F7FAFE;
+}
+.inputcolor{
+    background-color: #F7FAFE;
+}
+.cardblueimage{
+    height: 600px;
+    width: 600px;
+    padding-left: 50px;
+    padding-top: 150px;
+}
+
+
+/* ---------------------------------------section10--------------------------------------------------------------- */
+  .Sub_footer{
+    margin-top: 100px;
+    padding-bottom: 30px;
+    background-color: black;
+    color: white;
+    font-family: Gilroy-Medium;
+  }
+  .footer_image{
+    margin-top: 10px;
+    width: 195px;
+    height: 55px;
+}
+.top_content{
+    padding-top: 40px;
+}
+.facebook_iconstyle{
+    width: 200px;
+    height: 38px;
+}
+.Mfont .fa {
+    padding-right: 10px;
+  }
+  .footer{
+    border-top: solid white 0.75px;
+    background-color: black;
+    color: white;
+  }
+  .icon-content {
+  padding-left: 10px;
+}
+/* ------------------------------------------secondPage------------------------------------------------------------- */
+body{
+  overflow-x: hidden ;
+}
+.headier{
+  height: 300px;
+  width: 100%;
+  background-image: url(Maskgroup.png);
+  background-size: cover;
+  background-position: center;
+}
+#Corporate_Portal h1{
+  padding-left: 550px;
+  padding-top: 85px;
+  font-family: Gilroy-SemiBold;
+  font-size: 44px;
+}
+#peragraph2{
+  text-align: right;
+  margin-top: 230px;
+}
+#sidecard{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 70px; 
+}
+.sidecardone{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 70px; 
+  justify-content: center;
+}
+#sidecardbox{
+  width: 200px;
+  border-radius: 20px;
+  color: black;
+  padding: 0px 10px 20px 15px;
+  min-width: 220px;
+  font-family: Gilroy-Medium;
+ 
+}
+.sidecardboxone{
+  width: 200px;
+  border-radius: 20px;
+  color: black;
+  padding: 0px 10px 20px 15px;
+  min-width: 220px;
+  font-family: Gilroy-Medium;
+}
+
+.section_3{
+  width: 100%;
+  height: 500px;
+  margin-top: 340px;
+  background-color: #F7FAFE;
+}
+
+.vedioimage {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+.vedioimage img {
+  height: 300px;
+  width: 630px;
+  margin-top: -200px;
+}
+.Employee_text{
+  margin-top: 50px;
+  text-align: center;
+}
+/* -----------------------------------------------thirdpage----------------------------------------------------------------- */
+#Payroll_Card{
+  text-align: center;
+}
+#Payroll_Card h1{
+  font-size: 50px;
+  padding-left: 150px;
+  margin-top: 85px;
+  font-family: Gilroy-SemiBold;
+}
+.golden_card{
+  height: 360px;
+  width: 455px;
+}
+.Payroll_Card{
+  margin-top: 120px;
+}
+.Payroll_Card h1{
+  font-family:  Gilroy-SemiBold;
+  color: black;
+}
+.Payroll_Card  p{
+  font-family: Gilroy-Medium;
+  color: black;
+}
+.new_side_card{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 90px; 
+}
+.new_side_box{
+  width: 200px;
+  border-radius: 20px;
+  color: black;
+  padding: 0px 10px 20px 15px;
+  min-width: 270px;
+  font-family: Gilroy-Medium;
+  display: flex;
+  flex-direction: column;
+  /* border: 1px solid black; */
+}
+.new_box{
+  height: 70px;
+  width: 70px;
+  padding: 10px 10px;
+  display: flex;
+  align-self: center;
+}
+.new_side_card h1{
+  font-size: 18px;
+  font-family:  Gilroy-SemiBold;
+  text-align: center;
+}
+.new_side_card p{
+  font-size: 15px;
+  text-align: center;
+}
+.new_mobile{
+  height: 500px;
+  width: 325px;
+}
+.out_of_cash{
+  height: 400px;
+  width: 100%;
+}
+.last_side_card1{
+  display: flex;
+  flex-wrap: wrap;
+}
+.last_side_card{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 90px; 
+}
+.last_side_box1{
+  width: 200px;
+  border-radius: 20px;
+  color: black;
+  padding: 10px 20px 20px 15px;
+  min-width: 200px;
+  font-family: Gilroy-Medium;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid beige;
+}
+.last_box1{
+  height: 70px;
+  width: 70px;
+  padding: 10px 10px;
+  display: flex;
+
+}
+.last_side_card h1{
+  font-size: 18px;
+  font-family:  Gilroy-SemiBold;
+ 
+}
+.last_side_card p{
+  font-size: 15px; 
+}
+.pera{
+  margin-top: 230px;
+  font-family: Gilroy-SemiBold;
+  font-size: 33px;
+}
+.vediopicture{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+.vediopicture img{
+  height: 500px;
+  width: 830px;
+  margin-top: 100px;
+}
+.fourth img{
+  height: 560px;
+  width: 520px;
+}
+.furth_bluecard img{
+  height: 450px;
+  width: 500px;
+  margin-top: 120px;
+}
+.furth_icon{
+  height: 30px;
+  width: 35px;
+}
+/* ---------------------------------------------------------newsblog------------------------------------------------------- */
+#news_Blog{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+  padding-left: 100px;
+  margin-top: 85px;
+  font-family: Gilroy-SemiBold;
+}
+.number{
+  display: flex;
+  justify-content: center;
+}
+/* ---------------------------------------mediaqurey--------------------------------------------------------------------- */
+@media (min-width: 1025px)  {
+
+  .hand-imagestyle{
+    top: -203px;
+    right: 0;
+  }
+  .handeimage{
+  height: 650px;
+  width: 600px;
+  }
+}
+/* ----------------------------------------------normal laptop----------------------------------------------------- */
+@media only screen and (max-width: 1024px) {
+    
+    .circle{
+      height: 450px;
+      width: 440px;
+      right: -120px;
+    }
+    .card{
+      height: 350px;
+      width: 490px;
+      padding-top: 0px;
+    }
+    .peragraphone{
+      color: black;
+      margin-top: 70px;
+      font-size: 35px;
+    }
+    .peragraph{
+      color: black;
+      margin-top: 70px;
+      font-size: 35px;
+    }
+    .btnone{
+      height: 60px;
+      width: 210px;
+    }
+    .btn{
+      height: 60px;
+      width: 170px;
+    }
+    .img_logo{
+      margin-top: 10px;
+      height: 40px;
+      width: 130px;
+    }
+    .img_logo2{
+      margin-top: 10px;
+      height: 40px;
+      width: 140px;
+    }
+   
+    .sidecardbox{
+      width: 100px;
+      min-width: 180px;
+      gap: 20px;
+    }
+    .peparimage{
+      
+      height: 490px;
+      width: 460px;
+      
+    }
+    .peparimage2{
+      padding-top: 45px;
+      height: 540px;
+      width: 540px;
+      
+    }
+    .rightside_heading{
+      right: 0;
+      font-size: 34px;
+    }
+    .peragraph3{
+      font-size: 30px;
+      padding-left: 12px;
+    }
+    .section3{
+      padding-left: 12px;
+    }
+    .checkBoxPera{
+      padding-left: 40px;
+    }
+    .Checkboximage{
+      width: 40px; 
+      height: 25px;
+      padding-left: 10px;
+    }
+    .sectionthree1{
+      padding-top: 20px;
+    }
+    .section3{
+      font-size: 15px;
+      margin-top: 0px;
+    }
+    .sectionthree1{
+      font-size: 20px;
+      margin-top: 0px;
+    }
+    .sectionthree1pera{
+      font-size: 15px;
+      margin-top: 0px;
+    }
+    .pepar3{
+      height: 425px;
+      width: 430px;
+    }
+    .card_style{
+      width: 320px;
+  }
+  .mobileBig{
+    height: 370px;
+    width: 450px;
+  }
+  .callimage{
+    margin-top: 40px;
+    height: 70px;
+    width: 370px;
+  }
+  .btn2{
+    height: 60px;
+    width: 200px;
+    font-size: 17px;
+  }
+  .seliderimage{
+    margin-top: 25px;
+    height: 65px;
+    width: 400px;
+  }
+  .text_selider{
+    font-size: 33px;
+  }
+  .newslatter{
+    width: 1114px;
+    margin-top: 210px;
+    height: 400px;
+    background-color: #142044;
+    
+  }
+  .hand-imagestyle{
+    top: -203px;
+    right: 0;
+  }
+  .handeimage{
+  height: 660px;
+  width: 500px;
+  }
+  .cardblueimage{
+    padding-top: 160px;
+    height: 660px;
+    width: 560px;
+  }
+  .Sub_footer{
+    width: 1114px;
+    background-color: black;
+    font-size: 14px;
+  }
+  .icon-content {
+    padding-left: 10px;
+  }
+  .footer{
+    width: 1114px;
+  }
+  /* --------------------------------------------secondpage2------------------------------------------------------------------- */
+  .headier{
+    height: 300px;
+    width: 1114px;
+    background-image: url(Maskgroup.png);
+    background-size: cover;
+    background-position: center;
+  }
+  #Corporate_Portal h1{
+    padding-left: 400px;
+    padding-top: 85px;
+    font-family: Gilroy-SemiBold;
+    font-size: 44px;
+  }
+  #sidecard{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 44px; 
+  }
+  #sidecardbox{
+    width: 200px;
+    border-radius: 20px;
+    color: black;
+    padding: 0px 10px 20px 15px;
+    min-width: 220px;
+    font-family: Gilroy-Medium;
+  }
+  .section_3{
+    width: 1114px;
+    height: 500px;
+    margin-top: 340px;
+    background-color: #F7FAFE;
+  }
+  .vedioimage img {
+    height: 300px;
+    width: 630px;
+    margin-top: -200px;
+  }
+  .Employee_text{
+    margin-top: 70px;
+    text-align: center;
+  }
+  /* ----------------------------------------------------thirdpage------------------------------------------------- */
+  #Payroll_Card{
+    text-align: center;
+  }
+  #Payroll_Card h1{
+    font-size: 50px;
+    padding-left: 150px;
+    margin-top: 85px;
+  }
+  .golden_card{
+    height: 360px;
+    width: 455px;
+  }
+  .Payroll_Card{
+    margin-top: 120px;
+  }
+  .Payroll_Card h1{
+    font-family:  Gilroy-SemiBold;
+    padding-left: 55px;
+    color: black;
+  }
+  .Payroll_Card  p{
+    font-family: Gilroy-Medium;
+    padding-left: 55px;
+    color: black;
+  }
+  .out_of_cash{
+    height: 400px;
+    width: 1114px;
+  }
+  /* ------------------------------------------------fourthpage----------------------------------------------------------- */
+  .pera{
+    margin-top: 160px;
+    font-size: 30px;
+  }
+  .vediopicture{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .vediopicture img{
+    height: 400px;
+    width: 750px;
+    margin-top: 100px;
+  }
+  .fourth img{
+    height: 510px;
+    width: 490px;
+  }
+  /* ----------------------------------------------------------fivepage---------------------------------------------------------- */
+  #news_Blog{
+    font-size: 50px;
+    padding-left: 90px;
+    margin-top: 85px;
+    font-family: Gilroy-SemiBold;
+  }
+}
+
+/* ----------------------------------------------tabletstyle----------------------------------------------------- */
+@media only screen and (max-width: 768px) {
+  
+  .circle{
+    height: 350px;
+    width: 310px;
+    right: -23px;
+  }
+  .card{
+    margin-top: 50px;
+    height: 250px;
+    width: 300px;
+    padding-left: 0px;
+  }
+  .peragraphone{
+    margin-top: 80px;
+    font-size: 25px;
+  }
+  .peragraph{
+    margin-top: 80px;
+    font-size: 25px;
+  }
+  .btnone {
+    height: 50px;
+    width: 200px;
+  }
+  .buttonicon{
+    height: 8px;
+    width: 20px;
+  }
+  .btn{
+    height: 50px;
+    width: 165px;
+  }
+  .img_logo{
+    margin-top: 10px;
+    height: 40px;
+    width: 130px;
+  }
+  .img_logo2{
+    margin-top: 10px;
+    height: 40px;
+    width: 140px;
+   
+  }
+  .sidecard{
+    justify-content: space-around;
+  }
+  .sidecardbox{
+    width: 100px;
+    min-width: 200px;
+   
+  }
+  .rightside_heading{
+    text-align: center;
+    font-size: 30px;
+  }
+  .peragraph2{
+    margin-top: 60px;
+    text-align: center;
+    
+  }
+  .peparimage{
+    height: 400px;
+    width: 360px;
+  }
+  .peparimage2{
+    margin-top: 20px;
+    height: 410px;
+    width: 410px;
+  }
+  .peragraph3{
+    font-size: 25px;
+    padding-left: 0px;
+  }
+  .section3{
+    padding-left: 0px;
+    font-size: 12px;
+  }
+  .checkBoxPera{
+    padding-left: 40px;
+  }
+  .Checkboximage{
+    width: 30px; 
+    height: 25px;
+    padding-left: 0px;
+  }
+  .sectionthree1{
+    padding-top: 20px;
+  }
+  .sectionthree1{
+    font-size: 16px;
+    margin-top: 0px;
+  }
+  .sectionthree1pera{
+    font-size: 12px;
+    margin-top: 0px;
+  }
+  .pepar3{
+    height: 350px;
+    width: 350px;
+  }
+  .btn1{
+    height: 50px;
+    width: 130px;
+    font-size: 14px;
+  }
+  .card_style
+  {
+    width: 240px;
+  }
+  .mobileBig{
+    height: 280px;
+    width: 330px;
+  }
+  .callimage{
+    margin-top: 20px;
+    height: 60px;
+    width: 300px;
+    padding-left: 30px;
+  }
+  .btn2{
+    height: 45px;
+    width: 165px;
+    font-size: 13px;
+  }
+  .seliderimage{
+    margin-top: 0px;
+    height: 70px;
+    width: 280px;
+    object-fit: contain;
+  }
+  .text_selider{
+    font-size: 25px;
+  }
+  .newslatter{
+    width: 100%;
+    margin-top: 170px;
+    height: 300px;
+    background-color: #142044;
+    
+  }
+  .hand-imagestyle{
+    top: -135px;
+  }
+  .handeimage{
+  height: 450px;
+  width: 350px;
+  right: 0;
+  }
+  .cardblueimage{
+    margin-top: 110px;
+    height: 480px;
+    width: 370px;
+    padding-left: 0px;
+  }
+  .Sub_footer{
+    width: 100%;
+    background-color: black;
+    font-size: 10px;
+  }
+  .icon-content 
+  {
+    padding-left: 11px;
+  }
+  .footer_image
+  {
+    margin-top: 10px;
+    width: 160px;
+    object-fit: contain;
+  }
+  .footerone{
+    margin-top: -20px;
+  }
+  .facebook_iconstyle{
+    width: 160px;
+    object-fit: contain;
+   
+}
+  .footerstyle{
+    padding-left: 30px;
+  }
+  .footer{
+    width: 100%;
+    font-size: 11px;
+  } 
+  /* --------------------------------------------------secondpage2----------------------------------------------------------- */
+  .headier{
+    height: 250px;
+    width: 100%;
+    background-image: url(Maskgroup.png);
+    background-size: cover;
+    background-position: center;
+  }
+  #Corporate_Portal h1{
+    padding-left: 230px;
+    padding-top: 85px;
+    font-family: Gilroy-SemiBold;
+    font-size: 44px;
+  }
+  #sidecard{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+   
+  }
+  .sidecardone{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 44px;
+   
+  }
+  #sidecardbox{
+    width: 200px;
+    border-radius: 20px;
+    color: black;
+    padding: 0px 10px 20px 15px;
+    min-width: 220px;
+    font-family: Gilroy-Medium;
+  }
+  .sidecardboxone{
+    width: 200px;
+    border-radius: 20px;
+    color: black;
+    padding: 0px 10px 20px 15px;
+    min-width: 210px;
+    font-family: Gilroy-Medium;
+  }
+  .section_3{
+    width: 100%;
+    height: 420px;
+    margin-top: 220px;
+    background-color: #F7FAFE;
+  }
+  .vedioimage img {
+    height: 270px;
+    width: 550px;
+    margin-top: -200px;
+  }
+  .Employee_text{
+    margin-top: 50px;
+    text-align: center;
+  }
+  /* ---------------------------------------------thirdpage------------------------------------------------------ */
+  
+  #Payroll_Card h1{
+    font-size: 44px;
+    padding-left: 80px;
+    margin-top: 50px;
+  }
+  .golden_card{
+    height: 300px;
+    width: 350px;
+  }
+  .Payroll_Card{
+    margin-top: 100px;
+  }
+  .Payroll_Card h1{
+    font-size: 26px;
+  }
+  .Payroll_Card  p{
+   font-size: 13px;
+  }
+  .new_mobile{
+    height: 500px;
+    width: 325px;
+    display: block;
+    margin: 0 auto;
+  }
+  .out_of_cash{
+    height: 270px;
+    width: 100%;
+  }
+  .last_box1 {
+    height: 65px;
+    width: 65px;
+    padding: 10px 10px;
+    display: flex;
+  }
+  .last_side_box1{
+    min-width: 170px;
+  }
+  .last_side_card h1{
+    font-size: 15px;
+  }
+  .last_side_card p{
+    font-size: 10px;
+  }
+  /* ------------------------------------------------------------fourthpage------------------------------------------- */
+  .pera{
+    margin-top: 100px;
+    font-size: 24px;
+  }
+  .pera_p{
+    font-size: 13px;
+  }
+  .fourth img{
+    height: 400px;
+    width: 360px;
+    margin-top: 60px;
+  }
+  .furth_bluecard img{
+    height: 370px;
+    width: 415px;
+    margin-top: 140px;
+  }
+    /* ----------------------------------------------------------fivepage---------------------------------------------------------- */
+   #news_Blog{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    padding-left: 40px;
+    margin-top: 85px;
+    font-family: Gilroy-SemiBold;
+  }
+ 
+
+}
+
+/* -------------------------------------------------medium mobile style--------------------------------------- */
+@media only screen and (max-width: 425px) {
+    
+    .image{
+      height: 50px;
+      width: 180px;
+    }
+    .circle{
+      height: 200px;
+      width: 170px;
+      right: 0px;
+    }
+    .card {
+      height: 165px;
+      margin-left: -6px;
+      margin-top: 23px;
+      width: 190px;
+    }
+    .peragraphone{
+      margin-top: 50px;
+      font-size: 14px;
+    }
+    .margin{
+      margin-top: 0px !important;
+    }
+    .btnone {
+      height: 35px;
+      width: 120px;
+      margin-top: 15px;
+      font-size: 9px;
+    }
+    .btn{
+      margin-top: 30px;
+      height: 30px;
+      width: 115px;
+      font-size: 10px;
+    }
+    .buttonicon{
+      height: 5px;
+      width: 15px;
+    }
+    .img_logo{
+      margin-top: -50px;
+      height: 30px;
+      width: 65px;
+      object-fit: contain;
+    }
+    .img_logo2{
+       margin-top: -50px;
+        height: 30px;
+        width: 83px;
+        object-fit: contain;
+    }
+    .divTopMargin{
+      margin-top: 70px;
+    }
+    .sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+
+    }
+    .sidecardbox{
+      width: 100px;
+      min-width: 160px;
+      font-size: 10px;
+     
+    }
+    .icon {
+      margin-top: 20px;
+      height: 40px;
+      padding: 10px;
+  }
+    .sidecardbox h5{
+      font-size: 12px;
+    }
+    .rightside_heading{
+      font-size: 15px;
+    }
+    .btn1{
+      height: 40px;
+      width: 100px;
+      font-size: 10px;
+    }
+    .Checkboximage{
+      width: 20px; 
+      height: 20px;
+      padding-left: 0px;
+    }
+    .peragraph2{
+      margin-top: 40px;
+    }
+    .peparimage{
+      margin-top: 20px;
+      height: 300px;
+      width: 380px;
+    }
+    .battan{
+      text-align: center;
+    }
+    .peragraph2{
+      margin-top: 60px;
+      text-align: center;
+      
+    }
+    .sectionthree1 {
+      font-size: 20px;
+  
+    }
+    .peparimage{
+      height: 400px;
+      width: 360px;
+    }
+    .peparimage2{
+      height: 350px;
+      width: 370px;
+    }
+    .pepar3{
+      height: 350px;
+      width: 370px;
+    }
+    .card_style
+    {
+    width: 210px;
+    }
+    .callimage{
+      height: 70px;
+      width: 320px;
+      object-fit: contain;
+    }
+    .btn2{
+      height: 50px;
+      width: 175px;
+      font-size: 15px;
+    }
+    .mobileBig{
+      height: 290px;
+      width: 390px;
+    }
+    .seliderimage{
+      margin-top: -35px;
+      height: 90px;
+      width: 160px;
+      object-fit: contain;
+    }
+    .text_selider{
+      font-size: 14px;
+      margin-top: -40px;
+    }
+    .text_seliderone{
+      font-size: 10px;
+      padding-left: 0px;
+    }
+    .newslatter{
+      width: 100%;
+      margin-top: 100px;
+      height: 200px;
+      background-color: #142044;
+      
+    }
+    .hand-imagestyle{
+      top: -80px;
+    }
+    .handeimage{
+    height: 278px;
+    width: 210px;
+    right: 0;
+    }
+    .cardblueimage{
+      margin-top: -100px;
+      height: 440px;
+      width: 400px;
+      padding-left: 60px;
+    }
+    .Sub_footer{
+      width: 100%;
+      background-color: black;
+      font-size: 7px;
+    }
+    .icon-content 
+    {
+      padding-left: 7px;
+    }
+    .footer_image
+    {
+      margin-top: 15px;
+      width: 110px;
+      object-fit: contain;
+    }
+    .facebook_iconstyle{
+      margin-top: -25px;
+      width: 110px;
+      object-fit: contain;
+    }
+    .footerstyle{
+      padding-left: 15px;
+    }
+    .footerone{
+      margin-top: -25px;
+    }
+    .footer{
+      width: 100%;
+      font-size: 10px;
+    }
+    /* ---------------------------------------------secondpage2------------------------------------------------------- */
+    .headier{
+      height: 250px;
+      width: 100%;
+      background-image: url(Maskgroup.png);
+      background-size: cover;
+      background-position-x: left;
+    }
+    #Corporate_Portal h1{
+      padding-left: 95px;
+      font-size: 30px;
+    }
+    #sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+     
+    }
+    #sidecardbox{
+      width: 100px;
+      min-width: 160px;
+      font-size: 10px;
+    }
+    .Advence{
+      font-size: 13px;
+    }
+    .sidecardone{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px; 
+      justify-content: start;
+    }
+    .sidecardboxone{
+      width: 100px;
+      min-width: 190px;
+      font-size: 12px;
+    }
+    .section_3{
+      width: 100%;
+      height: 570px;
+      margin-top: 220px;
+      background-color: #F7FAFE;
+    }  
+    .vedioimage img {
+      height: 200px;
+      width: 380px;
+      margin-top: -145px;
+    }
+    .Employee_text{
+      margin-top: 50px;
+      text-align: center;
+    }
+    /* -------------------------------------------------thirdpage------------------------------------------------ */
+    #Payroll_Card h1{
+      font-size: 30px;
+      padding-left: 25px;
+      margin-top: 70px;
+    }
+    .golden_card{
+      height: 300px;
+      width: 390px;
+    }
+    .Payroll_Card{
+      margin-top: 100px;
+    }
+    .Payroll_Card h1{
+      font-size: 26px;
+    }
+    .Payroll_Card  p{
+     font-size: 13px;
+    }
+    .new_side_box{
+      margin: 0 auto;
+    }
+    .out_of_cash{
+      height: 170px;
+      width: 100%;
+    }
+    /* --------------------------------------------fourthpage------------------------------------------------------------- */
+    .pera{
+      margin-top: 0px;
+      font-size: 25px;
+    }
+    .fourth img{
+      height: 420px;
+      width: 390px;
+      margin-top: 30px;
+    }
+    .furth_icon {
+      height: 23px;
+      width: 30px;
+    }
+    .vediopicture img{
+      height: 220px;
+      width: 380px;
+      margin-top: 80px;
+    }
+    .furth_bluecard img{
+      height: 330px;
+      width: 370px;
+      margin-left: 40px;
+      margin-top: 0px;
+    }
+    /* ----------------------------------------------------------fivepage---------------------------------------------------------- */
+      #news_Blog{
+      font-size: 50px;
+      display: flex;
+      justify-content: center;
+      padding-left: 0px;
+      margin-top: 70px; 
+     font-family: Gilroy-SemiBold;
+    }
+    
+    
+    
+  }
+
+  /* -------------------------------------------------small mobilestyle---------------------------------------- */
+
+  @media only screen and (max-width: 320px) {
+
+    .image{
+        height: 35px;
+        width: 135px;
+    }
+    
+    .circle{
+      height: 140px;
+      width: 125px;
+      right: 0px;
+    }
+    .card{
+      margin-top: 28px;
+      height: 100px;
+      width: 140px;
+      padding-left: 10px;
+    }
+    .peragraphone{
+      margin-top: 40px;
+      font-size: 10px;
+    }
+    .btnone {
+      height: 25px;
+      width: 86px;
+      margin-top: 15px;
+      font-size: 8px;
+  }
+    .btn{
+      margin-top: 20px;
+      height: 30px;
+      width: 100px;
+      font-size: 8px;
+    }
+    .sectionthree1{
+      font-size: 13px;
+      margin-top: 0px;
+    }
+    .margin{
+      margin-top: 0px !important;
+    }
+    .buttonicon{
+        display: none;
+    }
+    .img_logo{
+        margin-top: -80px !important;
+        height: 60px;
+        width: 50px;
+        object-fit: contain;
+    }
+    .img_logo2{
+      margin-top: -80px !important;
+      height: 60px;
+      width: 50px;
+      padding-left: 0;
+      object-fit: contain;
+    }
+    .divTopMargin{
+      margin-top: 50px;
+    }
+    .sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+
+    }
+    .sidecardbox{
+      width: 100px;
+      min-width: 125px;
+      font-size: 10px;
+     
+    }
+    .icon {
+      margin-top: 20px;
+      height: 40px;
+      padding: 10px;
+  }
+    .sidecardbox h5{
+      font-size: 12px;
+    }
+    .rightside_heading{
+      font-size: 15px;
+    }
+    .btn1{
+      height: 35px;
+      width: 80px;
+      font-size: 10px;
+    }
+    .peragraph2{
+      margin-top: 30px;
+    }
+    .peparimage{
+      margin-top: 40px;
+      height: 250px;
+      width: 280px;
+    }
+    .peragraph{
+      padding-top: 10px;
+      text-align: center;
+      font-size: 17px;
+      
+    }
+    .battan{
+      text-align: center;
+      font-size: 10px;
+    }
+    .peparimage2{
+      height: 250px;
+      width: 280px;
+    }
+    .pepar3{
+      margin-top: 40px;
+      height: 250px;
+      width: 280px;
+    }
+    .callimage{
+      margin-top: 20px;
+      height: 60px;
+      width: 270px;
+      padding-left: 30px;
+    }
+    .btn2{
+      height: 40px;
+      width: 140px;
+      font-size: 12px;
+    }
+    .mobileBig{
+      height: 200px;
+      width: 280px;
+      padding-left: 30px;
+    }
+    .seliderimage{
+      margin-top: -95px;
+      width: 130px;
+      object-fit: contain;
+    }
+    .text_selider{
+      font-size: 10px;
+      margin-top: -60px;
+    }
+    .text_seliderone{
+      margin-top: -50px;
+      font-size: 10px;
+      padding-left: 5px;
+    }
+    .newslatter{
+      
+      width: 100%;
+      margin-top: 100px;
+      height: 125px;
+      background-color: #142044;
+      
+    }
+    .hand-imagestyle{
+      top: -60px;
+    }
+    .handeimage{
+    height: 200px;
+    width: 160px;
+    right: 0;
+    }
+    .cardblueimage {
+      margin-top: -120px;
+      height: 400px;
+      width: 300px;
+      padding-left: 20px;
+    }
+    .Sub_footer{
+      width: 100%;
+      background-color: black;
+      font-size: 4px;
+      padding-top: 0px;
+    }
+    .icon-content 
+    {
+      padding-left: 4px;
+    }
+    .footer_image
+    {
+      margin-top: 15px;
+      width: 80px;
+      object-fit: contain;
+    }
+    .facebook_iconstyle{
+      margin-top: -25px;
+      width: 80px;
+      object-fit: contain;
+    }
+    .footerstyle{
+      padding-left: 10px;
+    }
+    .footerone{
+      margin-top: -35px;
+    }
+    .footer{
+      width: 100%;
+      font-size: 7px;
+    }
+    /* -----------------------------------------------secondpage2--------------------------------------------------------------- */
+    .headier{
+      height: 250px;
+      width: 100%;
+      background-image: url(Maskgroup.png);
+      background-size: cover;
+      background-position-x: left;
+    }
+
+    #Corporate_Portal h1{
+      padding-left: 45px;
+      font-size: 30px;
+    }
+    #sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+     
+    }
+    #sidecardbox{
+      width: 100px;
+      min-width: 115px;
+      font-size: 10px;
+    }
+    .Advence{
+      font-size: 10px;
+    }
+    .sidecardone{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px; 
+    }
+    .sidecardboxone{
+      width: 100px;
+      min-width: 150px;
+      font-size: 8px;
+    }
+    .section_3{
+      width: 100%;
+      height: 460px;
+      margin-top: 220px;
+      background-color: #F7FAFE;
+    }  
+    .vedioimage img {
+      height: 150px;
+      width: 270px;
+      margin-top: -120px;
+    }
+    .Employee_text{
+      margin-top: 50px;
+      text-align: center;
+    }
+    /* ------------------------------------------------thirdpage------------------------------------------------------------- */
+    #Payroll_Card h1{
+      font-size: 25px;
+      padding-left: 10px;
+      margin-top: 90px;
+    }
+    .golden_card{
+      height: 240px;
+      width: 280px;
+    }
+    .Payroll_Card{
+      margin-top: 50px;
+    }
+    .Payroll_Card h1{
+      font-size: 20px;
+      padding: 0;
+    }
+    .Payroll_Card  p{
+     font-size: 13px;
+     padding: 0;
+    }
+    .new_mobile {
+      height: 390px;
+      width: 270px;
+      display: block;
+      margin: 0 auto;
+  }
+  .out_of_cash{
+    height: 150px;
+    width: 100%;
+  }
+  .last_side_box1{
+    min-width: 300px;
+  }
+  .last_box1{
+    height: 60px;
+    width: 60px;
+    padding: 10px 10px;
+    display: flex;
+    align-self: center;
+  }
+  .last_side_card h1{
+    font-size: 15px;
+    font-family:  Gilroy-SemiBold;
+    text-align: center;
+  }
+  .last_side_card p{
+    font-size: 10px;
+    text-align: center;
+  }
+  /* -----------------------------------------------------------fourthpage---------------------------------------------------- */
+  .pera{
+    margin-top: 0px;
+    font-size: 21px;
+  }
+  .fourth img{
+    height: 330px;
+    width: 290px;
+    margin-top: 30px;
+  }
+  .furth_icon {
+    height: 22px;
+    width: 30px;
+  }
+  .vediopicture img{
+    height: 170px;
+    width: 280px;
+    margin-top: 70px;
+  }
+  .furth_bluecard img{
+    height: 250px;
+    width: 300px;
+    margin-left: 8px;
+    margin-top: 0px;
+  }
+  /* ----------------------------------------------------fivepage----------------------------------------------------------- */
+  #news_Blog{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    margin-top: 85px;
+    font-family: Gilroy-SemiBold;
+  }
+   
+  }
+
+  /* ----------------------------------------medium se tablate k beach ka style------------------------------------------- */
+
+  @media (min-width: 769px) and (max-width: 1023px) {
+    
+    .circle{
+      height: 380px;
+      width: 380px;
+      right: -10;
+    }
+    .card{
+      margin-top: 50px;
+      height: 250px;
+      width: 300px;
+    }
+    .peragraph{
+      margin-top: 50px;
+      font-size: 20px;
+    }
+    .btn{
+      height: 60px;
+      width: 190px;
+    }
+    .img_logo{
+      height: 40px;
+      width: 130px;
+    }
+    .img_logo2{
+      height: 40px;
+      width: 140px;
+    }
+    .sidecard{
+      justify-content: space-around;
+    }
+    .sidecardbox{
+      width: 100px;
+      min-width: 220px;
+     
+    }
+    .rightside_heading{
+      text-align: center;
+    }
+    .peragraph2{
+      margin-top: 60px;
+      text-align: center;
+      
+    }
+    .peparimage2{
+      height: 350px;
+      width: 400px;
+      object-fit: cover;
+    }
+    .peragraph3{
+      font-size: 20px;
+      margin-top: 0px;
+      padding-right:55px;
+    }
+    .section3{
+      font-size: 10px;
+      margin-top: 0px;
+    }
+    .sectionthree1{
+      font-size: 15px;
+      margin-top: 0px;
+    }
+    .sectionthree1pera{
+      font-size: 10px;
+      margin-top: 0px;
+    }
+    .card_style
+    {
+      width: 235px;
+    }
+    .seliderimage{
+      margin-top: 20px;
+      height: 65px;
+      width: 400px;
+    }
+    .text_selider{
+      font-size: 33px;
+    }
+    .newslatter{
+      width: 1100px;
+      margin-top: 210px;
+      height: 400px;
+      background-color: #142044;
+      
+    }
+    .hand-imagestyle{
+      top: -203px;
+      right: 0;
+    }
+    .handeimage{
+    height: 660px;
+    width: 500px;
+    }
+    .Sub_footer{
+      width: 835px;
+      background-color: black;
+      font-size: 7px;
+    }
+    .icon-content 
+    {
+      padding-left: 5px;
+    }
+    .footer_image
+    {
+      margin-top: 10px;
+      width: 180px;
+      object-fit: contain;
+    }
+    .footer{
+      width: 835px;
+      font-size: 10px;
+    }
+    /* -----------------------------------------------secondpage----------------------------------------------------- */
+    .headier{
+      height: 250px;
+      width: 100%;
+      background-image: url(Maskgroup.png);
+      background-size: cover;
+      background-position: center;
+    }
+    #Corporate_Portal h1{
+      padding-left: 230px;
+      padding-top: 85px;
+      font-family: Gilroy-SemiBold;
+      font-size: 44px;
+    }
+    #sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+     
+    }
+    .sidecardone{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      gap: 44px;
+     
+    }
+    #sidecardbox{
+      width: 200px;
+      border-radius: 20px;
+      color: black;
+      padding: 0px 10px 20px 15px;
+      min-width: 220px;
+      font-family: Gilroy-Medium;
+    }
+    .sidecardboxone{
+      width: 200px;
+      border-radius: 20px;
+      color: black;
+      padding: 0px 10px 20px 15px;
+      min-width: 210px;
+      font-family: Gilroy-Medium;
+    }
+    .section_3{
+      width: 100%;
+      height: 420px;
+      margin-top: 220px;
+      background-color: #F7FAFE;
+    }
+    .vedioimage img {
+      height: 270px;
+      width: 550px;
+      margin-top: -200px;
+    }
+    .Employee_text{
+      margin-top: 50px;
+      text-align: center;
+    }
+    /* -------------------------------------------------------thirdpage----------------------------------------------------------- */
+    #Payroll_Card{
+      text-align: center;
+    }
+    #Payroll_Card h1{
+      font-size: 50px;
+      padding-left: 150px;
+      margin-top: 85px;
+    }
+    .golden_card{
+      height: 360px;
+      width: 455px;
+    }
+    .Payroll_Card{
+      margin-top: 120px;
+    }
+    .Payroll_Card h1{
+      font-family:  Gilroy-SemiBold;
+      padding-left: 55px;
+      color: black;
+    }
+    .Payroll_Card  p{
+      font-family: Gilroy-Medium;
+      padding-left: 55px;
+      color: black;
+    }
+    .out_of_cash{
+      height: 400px;
+      width: 1114px;
+    }
+      /* ------------------------------------------------fourthpage----------------------------------------------------------- */
+  .pera{
+    margin-top: 160px;
+    font-size: 30px;
+  }
+  .vediopicture{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .vediopicture img{
+    height: 400px;
+    width: 750px;
+    margin-top: 100px;
+  }
+  .fourth img{
+    height: 510px;
+    width: 490px;
+  }
+   
+  
+  }
+
+
+
+  @media (min-width: 426px) and (max-width: 767px) {
+    
+    .circle{
+      height: 230px;
+      width: 270px;
+      right: -10;
+    }
+    .card{
+        margin-top: 50px;
+        height: 120px;
+        width: 290px;
+        padding-right: 100px;
+    }
+    .peragraph{
+      margin-top: 50px;
+      font-size: 15px;
+    }
+    .btn{
+      height: 40px;
+      width: 130px;
+      font-size: 9px;
+    }
+    .buttonicon{
+      display: none;
+    }
+    .img_logo{
+      height: 30px;
+      width: 65px;
+    }
+    .img_logo2{
+        height: 30px;
+        width: 80px;
+    }
+    .divTopMargin{
+      margin-top: 60px;
+    }
+    .sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+
+    }
+    .sidecardbox{
+      width: 100px;
+      min-width: 160px;
+      font-size: 10px;
+     
+    }
+    .icon {
+      margin-top: 20px;
+      height: 40px;
+      padding: 10px;
+  }
+    .sidecardbox h5{
+      font-size: 12px;
+    }
+    .rightside_heading{
+      font-size: 15px;
+    }
+    .btn1{
+      height: 40px;
+      width: 100px;
+      font-size: 10px;
+    }
+    .peragraph2{
+      margin-top: 40px;
+    }
+    .seliderimage{
+      margin-top: -25px;
+      height: 90px;
+      width: 160px;
+      object-fit: contain;
+    }
+    .text_selider{
+      font-size: 14px;
+    }
+    .text_seliderone{
+      font-size: 10px;
+      padding-left: 20px;
+    }
+    .newslatter{
+      width: 100%;
+      margin-top: 80px;
+      height: 180px;
+      background-color: #142044;
+    }
+    .hand-imagestyle{
+      top: -80px;
+    }
+    .handeimage{
+    height: 278px;
+    width: 210px;
+    right: 0;
+    }
+    .cardblueimage {
+      margin-top: -120px;
+      height: 400px;
+      width: 300px;
+      padding-left: 20px;
+  }
+    .Sub_footer{
+      width: 100%;
+      background-color: black;
+      font-size: 8px;
+    }
+    .icon-content 
+    {
+      padding-left: 5px;
+    }
+    .footer_image
+    {
+      margin-top: 10px;
+      width: 80px;
+      object-fit: contain;
+    }
+    .facebook_iconstyle{
+      width: 80px;
+      object-fit: contain;
+    }
+    .footerone{
+      margin-top: -20px;
+    }
+    .footer{
+      width: 100%;
+      font-size: 10px;
+    }
+    /* -------------------------------------------------secondpage------------------------------------------------ */
+    .headier{
+      height: 250px;
+      width: 100%;
+      background-image: url(Maskgroup.png);
+      background-size: cover;
+      background-position-x: left;
+    }
+    #Corporate_Portal h1{
+      padding-left: 95px;
+      font-size: 30px;
+    }
+    #sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+     
+    }
+    #sidecardbox{
+      width: 100px;
+      min-width: 160px;
+      font-size: 10px;
+    }
+    .Advence{
+      font-size: 13px;
+    }
+    .sidecardone{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px; 
+      justify-content: start;
+    }
+    .sidecardboxone{
+      width: 100px;
+      min-width: 190px;
+      font-size: 12px;
+    }
+    .section_3{
+      width: 100%;
+      height: 570px;
+      margin-top: 220px;
+      background-color: #F7FAFE;
+    }  
+    .vedioimage img {
+      height: 200px;
+      width: 380px;
+      margin-top: -145px;
+    }
+    .Employee_text{
+      margin-top: 50px;
+      text-align: center;
+    }
+      /* ---------------------------------------------thirdpage------------------------------------------------------ */
+  
+  #Payroll_Card h1{
+    font-size: 44px;
+    padding-left: 80px;
+    margin-top: 50px;
+  }
+  .golden_card{
+    height: 300px;
+    width: 350px;
+  }
+  .Payroll_Card{
+    margin-top: 100px;
+  }
+  .Payroll_Card h1{
+    font-size: 26px;
+  }
+  .Payroll_Card  p{
+   font-size: 13px;
+  }
+  .new_mobile{
+    height: 500px;
+    width: 325px;
+    display: block;
+    margin: 0 auto;
+  }
+  .out_of_cash{
+    height: 270px;
+    width: 100%;
+  }
+  .last_box1 {
+    height: 65px;
+    width: 65px;
+    padding: 10px 10px;
+    display: flex;
+  }
+  .last_side_box1{
+    min-width: 170px;
+  }
+  .last_side_card h1{
+    font-size: 15px;
+  }
+  .last_side_card p{
+    font-size: 10px;
+  }
+   /* ------------------------------------------------------------fourthpage------------------------------------------- */
+   .pera{
+    margin-top: 100px;
+    font-size: 24px;
+  }
+  .pera_p{
+    font-size: 13px;
+  }
+  .fourth img{
+    height: 400px;
+    width: 360px;
+    margin-top: 60px;
+  }
+  .furth_bluecard img{
+    height: 370px;
+    width: 415px;
+    margin-top: 140px;
+  }
+    
+  }
+  /* ----------------------------------------small to medium mobile----------------------------------------- */
+
+  @media (min-width: 321px) and (max-width: 424px) {
+
+    .image{
+        height: 50px;
+        width: 150px;
+    }
+    
+    .circle{
+      height: 130px;
+      width: 160px;
+      right: 0;
+    }
+    .card{
+      margin-top: 30px;
+      height: 90px;
+      width: 120px;
+      padding-right: 10px;
+    }
+    .peragraph{
+      margin-top: 20px;
+      font-size: 15px;
+    }
+    .btn{
+      height: 30px;
+      width: 80px;
+      font-size: 6px;
+      
+    }
+    .buttonicon{
+        display: none;
+    }
+      .img_logo{
+      margin-top: -80px !important;
+      height: 60px;
+      width: 50px;
+      object-fit: contain;
+    }
+    .img_logo2{
+      margin-top: -80px !important;
+      height: 60px;
+      width: 50px;
+      padding-left: 0;
+      object-fit: contain;
+     }
+    .divTopMargin{
+      margin-top: 30px;
+    }
+    .sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+
+    }
+    .sidecardbox{
+      width: 100px;
+      min-width: 125px;
+      font-size: 10px;
+     
+    }
+    .icon {
+      margin-top: 20px;
+      height: 40px;
+      padding: 10px;
+  }
+    .sidecardbox h5{
+      font-size: 12px;
+    }
+    .rightside_heading{
+      font-size: 13px;
+    }
+    .btn1{
+      height: 35px;
+      width: 80px;
+      font-size: 10px;
+    }
+    .peragraph2{
+      margin-top: 30px;
+    }
+    .seliderimage{
+      margin-top: -25px;
+      height: 70px;
+      width: 100px;
+      object-fit: contain;
+    }
+    .text_selider{
+
+      margin-top: 30px;
+      font-size: 10px;
+    }
+    .text_seliderone{
+      font-size: 8px;
+      padding-left: 0px;
+    }
+    .newslatter{
+      width: 100%;
+      margin-top: 80px;
+      height: 140px;
+      background-color: #142044;
+      
+    }
+    .hand-imagestyle{
+      top: -60px;
+    }
+    .handeimage{
+    height: 200px;
+    width: 160px;
+    right: 0;
+    }
+    .Sub_footer{
+      width: 100%;
+      background-color: black;
+      font-size: 5px;
+    }
+    .icon-content 
+    {
+      padding-left: 2px;
+    }
+    .footer_image
+    {
+      margin-top: 10px;
+      width: 60px;
+      object-fit: contain;
+    }
+    .facebook_iconstyle{
+      width: 60px;
+      object-fit: contain;
+    }
+    .footerone{
+      margin-top: -30px;
+    }
+    .footer{
+      width: 100%;
+      font-size: 7px;
+    }
+    /* --------------------------------------------SECONDPAGE-------------------------------------------------------- */
+    .headier{
+      height: 250px;
+      width: 100%;
+      background-image: url(Maskgroup.png);
+      background-size: cover;
+      background-position-x: left;
+    }
+
+    #Corporate_Portal h1{
+      padding-left: 45px;
+      font-size: 30px;
+    }
+    #sidecard{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+     
+    }
+    #sidecardbox{
+      width: 100px;
+      min-width: 115px;
+      font-size: 10px;
+    }
+    .Advence{
+      font-size: 10px;
+    }
+    .sidecardone{
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px; 
+    }
+    .sidecardboxone{
+      width: 100px;
+      min-width: 150px;
+      font-size: 8px;
+    }
+    .section_3{
+      width: 100%;
+      height: 460px;
+      margin-top: 220px;
+      background-color: #F7FAFE;
+    }  
+    .vedioimage img {
+      height: 150px;
+      width: 270px;
+      margin-top: -120px;
+    }
+    .Employee_text{
+      margin-top: 50px;
+      text-align: center;
+    }
+    #Payroll_Card h1{
+      font-size: 25px;
+      padding-left: 10px;
+      margin-top: 90px;
+    }
+    .golden_card{
+      height: 240px;
+      width: 280px;
+    }
+    .Payroll_Card{
+      margin-top: 50px;
+    }
+    .Payroll_Card h1{
+      font-size: 20px;
+      padding: 0;
+    }
+    .Payroll_Card  p{
+     font-size: 13px;
+     padding: 0;
+    }
+    .new_mobile {
+      height: 390px;
+      width: 270px;
+      display: block;
+      margin: 0 auto;
+  }
+    .last_side_box1{
+      min-width: 300px;
+    }
+    .last_box1{
+      height: 60px;
+      width: 60px;
+      padding: 10px 10px;
+      display: flex;
+      align-self: center;
+    }
+    .last_side_card h1{
+      font-size: 15px;
+      font-family:  Gilroy-SemiBold;
+      text-align: center;
+    }
+    .last_side_card p{
+      font-size: 10px;
+      text-align: center;
+    }
+        /* --------------------------------------------fourthpage------------------------------------------------------------- */
+        .pera{
+          margin-top: 0px;
+          font-size: 25px;
+        }
+        .fourth img{
+          height: 420px;
+          width: 390px;
+          margin-top: 30px;
+        }
+        .vediopicture img{
+          height: 220px;
+          width: 380px;
+          margin-top: 80px;
+        }
+        .furth_bluecard img{
+          height: 330px;
+          width: 370px;
+          margin-left: 40px;
+          margin-top: 0px;
+        }
+
+  }
